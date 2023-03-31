@@ -5,16 +5,16 @@ Waiting to find out more on Game dev, SE and Machine Learning.
 
 ---
 ### Tech stacks & Language
-- Python
-- Java
-- React
-- Node.JS
-- Docker
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddx-510&&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
 #### Find out more about me 📫 
 
 - [Linkedin](https://www.linkedin.com/in/dai-t-11b6b0137/)
 - [My personal Blog & some past exp](https://ddx-510.github.io/)
+
+![DDX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddx-510&show_icons=true&theme=vue&count_private=true)
+
 
 <!--
 **ddx-510/ddx-510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
