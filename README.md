@@ -14,7 +14,7 @@ in back-end development:
 
 in cloud computing:
 
-- aws, google cloud, tencent cloud
+- K8s, docker, aws, google cloud, tencent cloud
 
 and also prompt engineering XD
 
