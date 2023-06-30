@@ -1,7 +1,22 @@
 ### Hi this is Tianle 😄
 
-An Yr3 Computer Science undergraduate in National University of Singapore who is keen in making apps, websites, and games. 
-Waiting to find out more on Game dev, SE and Machine Learning.
+An Year Four Computer Science undergraduate at National University of Singapore.
+
+Track: Software development + game development
+
+Experienced in front-end development:
+
+- Nextjs 13, React Js, Vue
+
+in back-end development:
+
+- Express, python, go lang, c++, java
+
+in cloud computing:
+
+- aws, google cloud, tencent cloud
+
+and also prompt engineering XD
 
 ---
 ### Tech stacks & Language
