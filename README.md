@@ -1,6 +1,6 @@
 ### Hi this is Tianle 😄
 
-An Year Four Computer Science undergraduate at National University of Singapore.
+Final year Computer Science undergraduate at National University of Singapore.
 
 Track: Software development + game development
 
