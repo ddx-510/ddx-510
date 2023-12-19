@@ -1,6 +1,6 @@
 ### Hi this is Tianle 😄
 
-Final year Computer Science undergraduate at National University of Singapore.
+Final year Computer Science undergraduate at the National University of Singapore.
 
 Track: Software development + game development
 
@@ -14,7 +14,7 @@ in back-end development:
 
 in cloud computing:
 
-- K8s, docker, aws, google cloud, tencent cloud
+- K8s, docker, AWS, Google Cloud, Tencent cloud
 
 and also prompt engineering XD
 
@@ -23,6 +23,16 @@ and also prompt engineering XD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddx-510&&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
+#### Some Game demo
+#### The Tale of kentridge 
+https://www.youtube.com/watch?v=CfYs6wlWDug&t=14s
+
+##### MetalCore
+https://www.youtube.com/watch?v=ohToEW5kBoM
+
+##### AssaShine
+https://drive.google.com/file/d/1JtRQdXbKe1JXdZph2cF10lFCTyegYR70/view
+
 #### Find out more about me 📫 
 
 - [Linkedin](https://www.linkedin.com/in/dai-t-11b6b0137/)
