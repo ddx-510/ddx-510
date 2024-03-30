@@ -18,6 +18,8 @@ Experienced in front-end development:
 		</tr>
 </table>
 
+
+
 in back-end development:
 
 <table>
@@ -62,10 +64,6 @@ in game development:
 
 and also prompt engineering XD
 
----
-### Tech stacks & Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddx-510&&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
 #### Some Game demo
 #### The Tale of kentridge 
