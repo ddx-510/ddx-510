@@ -1,8 +1,10 @@
 ### Hi this is Tianle 😄
 
-Computer Science fresh grad at the National University of Singapore.
+- Computer Science graduate from the National University of Singapore.（Software development + game development）
 
-Track: Software development + game development
+- Fullstack Software Developer at [Platox.AI](https://www.ccmonet.ai/)
+
+- Part-time Game Developer with [Turbo](https://turbo.computer/)
 
 Experienced in front-end development:
 
