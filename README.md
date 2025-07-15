@@ -83,7 +83,3 @@ https://drive.google.com/file/d/1JtRQdXbKe1JXdZph2cF10lFCTyegYR70/view
 - [My personal Blog & some past exp](https://ddx-510.github.io/)
 
 <img src="https://raw.githubusercontent.com/ddx-510/ddx-510/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ddx-510/count.svg?"  />
-</div>
