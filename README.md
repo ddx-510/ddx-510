@@ -71,6 +71,8 @@
 #### 📸 Screenshots
 
 [<img src="https://img.itch.zone/aW1hZ2UvNDAwOTA2NS8yMzkwODAzNi5wbmc=/original/26xK7J.png"/>](https://ddx510.itch.io/fish-tank)
+[<img src="https://img.itch.zone/aW1hZ2UvNDAwOTA2NS8yMzkwODAzNy5wbmc=/original/qOfXw2.png"/>](https://ddx510.itch.io/fish-tank)
+
 <!-- Add more: [<img src="your-image-url" width="200" />](https://ddx510.itch.io/fish-tank) -->
 
 </td>
@@ -105,8 +107,8 @@ A relaxing, interactive aquarium game where you can design your own fish, watch 
 
 #### 📸 Screenshots
 
-[<img src="https://img.itch.zone/aW1hZ2UvMzQ1NTc0OS8yMzM4NTA1MS5wbmc=/original/nmPDJf.png" width="150" />](https://ddx510.itch.io/tok-pocket)
-[<img src="https://img.itch.zone/aW1hZ2UvMzQ1NTc0OS8yMzM4NTA0My5wbmc=/original/25AyIM.png" width="150" />](https://ddx510.itch.io/tok-pocket)
+[<img src="https://img.itch.zone/aW1hZ2UvMzQ1NTc0OS8yMzM4NTA1MS5wbmc=/original/nmPDJf.png" width="180" />](https://ddx510.itch.io/tok-pocket)
+[<img src="https://img.itch.zone/aW1hZ2UvMzQ1NTc0OS8yMzM4NTA0My5wbmc=/original/25AyIM.png" width="180" />](https://ddx510.itch.io/tok-pocket)
 
 </td>
 <td width="50%" valign="top">
