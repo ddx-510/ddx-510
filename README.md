@@ -1,4 +1,7 @@
-### Hi this is Tianle 😄
+### Hi this is Tianle (DDX) 😄
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dai-t-11b6b0137/) [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ddx0510) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/809306588267282433)
+
 
 - Computer Science graduate from the National University of Singapore (Software development + game development)
 - Fullstack Software Developer at [Platox.AI](https://www.ccmonet.ai/)
@@ -137,8 +140,10 @@ A relaxing, interactive aquarium game where you can design your own fish, watch 
 
 ## 📹 Previous Game Demos
 
-### The Tale of Kentridge
+### The Tale of Kentridge (Tok - Previous Version)
 [![The Tale of Kentridge](https://img.youtube.com/vi/CfYs6wlWDug/0.jpg)](https://www.youtube.com/watch?v=CfYs6wlWDug&t=14s)
+
+**Previous version of Tok Pocket** - Built without Turbo OS but with Solana blockchain integration.
 
 [**Watch on YouTube** →](https://www.youtube.com/watch?v=CfYs6wlWDug&t=14s)
 
@@ -147,18 +152,24 @@ A relaxing, interactive aquarium game where you can design your own fish, watch 
 ### MetalCore
 [![MetalCore](https://img.youtube.com/vi/ohToEW5kBoM/0.jpg)](https://www.youtube.com/watch?v=ohToEW5kBoM)
 
+**School Project** - Unreal Engine 3D roguelike game
+
 [**Watch on YouTube** →](https://www.youtube.com/watch?v=ohToEW5kBoM)
 
 ---
 
 ### AssaShine
+
+**Unreal Engine 3D School Orbital Project** - Top 16 teams
+
+**Topdown party game** with lots of NPCs. Players need to mimic NPCs and find out players (and kill them) with skills.
+
 [**View Demo** →](https://drive.google.com/file/d/1JtRQdXbKe1JXdZph2cF10lFCTyegYR70/view)
 
 ---
 
 #### Find out more about me 📫 
 
-- [Linkedin](https://www.linkedin.com/in/dai-t-11b6b0137/)
 - [My personal Blog & some past exp](https://ddx-510.github.io/)
 
 <img src="https://raw.githubusercontent.com/ddx-510/ddx-510/output/snake.svg" alt="Snake animation" />
