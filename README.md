@@ -1,81 +1,162 @@
 ### Hi this is Tianle 😄
 
-- Computer Science graduate from the National University of Singapore.（Software development + game development）
-
+- Computer Science graduate from the National University of Singapore (Software development + game development)
 - Fullstack Software Developer at [Platox.AI](https://www.ccmonet.ai/)
-
 - Part-time Game Developer with [Turbo](https://turbo.computer/)
 
-Experienced in front-end development:
+**Tech Stack:**
 
 <table>
-		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></td>
-		</tr>
+<tr>
+<td><strong>💻 Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+</td>
+</tr>
+<tr>
+<td><strong>⚙️ Backend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
+</td>
+</tr>
+<tr>
+<td><strong>☁️ Cloud & DevOps</strong></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</td>
+</tr>
+<tr>
+<td><strong>🎮 Game Dev</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Turbo-FF6B6B?style=flat" alt="Turbo" />
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot" />
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+</td>
+</tr>
 </table>
-
-
-
-in back-end development:
-
-<table>
-		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></td>
-		</tr>
-</table>
-
-in cloud computing:
-
-- K8s, docker, AWS, Google Cloud, Tencent cloud
-
-<table>
-		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></td>
-			<td><img width="50" src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png" alt="Auth0" title="Auth0"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></td>
-		</tr>
-	</table>
-
-in game development:
-
-<table>
-		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" alt="Godot" title="Godot"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" alt="Unreal Engine" title="Unreal Engine"/></td>
-		</tr>
-</table>
-
-
-and also prompt engineering XD
 
 ---
-#### Some Game demo
-#### The Tale of kentridge 
-https://www.youtube.com/watch?v=CfYs6wlWDug&t=14s
 
-##### MetalCore
-https://www.youtube.com/watch?v=ohToEW5kBoM
+## 🎮 Game Projects
 
-##### AssaShine
-https://drive.google.com/file/d/1JtRQdXbKe1JXdZph2cF10lFCTyegYR70/view
+### 🐟 Fish Tank
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshots
+
+[<img src="https://img.itch.zone/aW1hZ2UvNDAwOTA2NS8yMzkwODAzNi5wbmc=/original/26xK7J.png"/>](https://ddx510.itch.io/fish-tank)
+<!-- Add more: [<img src="your-image-url" width="200" />](https://ddx510.itch.io/fish-tank) -->
+
+</td>
+<td width="50%" valign="top">
+
+**Interactive Digital Aquarium** - Create, customize, and interact with your own underwater world!
+
+A relaxing, interactive aquarium game where you can design your own fish, watch them swim, and create a beautiful underwater ecosystem. 
+
+**Features:**
+- 🎨 **Custom Fish Creation**: Draw unique fish pixel-by-pixel with a built-in drawing tool
+- 🏊 **Living Aquarium**: Watch fish swim naturally with realistic physics-based movement
+- 🍽️ **Interactive Feeding**: Long-press to drop food and watch fish compete to eat
+- 👥 **Social Features**: Vote on fish creations and track popularity
+- 🖼️ **Gallery Mode**: Browse through the entire fish collection
+
+**Tech Stack:** Turbo (Rust-based game engine) | Real-time multiplayer | Persistent storage
+
+[**🎮 Play on itch.io**](https://ddx510.itch.io/fish-tank)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🃏 Tok Pocket
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshots
+
+[<img src="https://img.itch.zone/aW1hZ2UvMzQ1NTc0OS8yMzM4NTA1MS5wbmc=/original/nmPDJf.png" width="200" />](https://ddx510.itch.io/tok-pocket)
+[<img src="https://img.itch.zone/aW1hZ2UvMzQ1NTc0OS8yMzM4NTA0Mi5wbmc=/original/Jmq7mT.png" width="200" />](https://ddx510.itch.io/tok-pocket)
+[<img src="https://img.itch.zone/aW1hZ2UvMzQ1NTc0OS8yMzM4NTA0NC5wbmc=/original/9Q1oMn.png" width="200" />](https://ddx510.itch.io/tok-pocket)
+[<img src="https://img.itch.zone/aW1hZ2UvMzQ1NTc0OS8yMzM4NTA0My5wbmc=/original/25AyIM.png" width="200" />](https://ddx510.itch.io/tok-pocket)
+
+</td>
+<td width="50%" valign="top">
+
+**Experience intense tactical card combat in this multiplayer strategy game!**
+
+**Game Features:**
+
+⚔️ **Strategic Grid-Based Combat**
+- Deploy your cards on a 3x3 battlefield grid
+- Plan your attacks and defenses with tactical positioning
+- Master the art of card placement timing
+
+🏗️ **Deep Deck Building System**
+- Collect cards from multiple factions: Royal, Barbarian, and Undead
+- Build and customize your perfect 30-card deck
+- Unlock new cards through booster packs
+
+🌐 **Multiplayer Battles**
+- Challenge players online in real-time matches
+
+**Tech Stack:** Turbo (Rust-based game engine) | Real-time multiplayer
+
+[**🎮 Play on itch.io <password: turbo>**](https://ddx510.itch.io/tok-pocket) 
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📹 Previous Game Demos
+
+### The Tale of Kentridge
+[![The Tale of Kentridge](https://img.youtube.com/vi/CfYs6wlWDug/0.jpg)](https://www.youtube.com/watch?v=CfYs6wlWDug&t=14s)
+
+[**Watch on YouTube** →](https://www.youtube.com/watch?v=CfYs6wlWDug&t=14s)
+
+---
+
+### MetalCore
+[![MetalCore](https://img.youtube.com/vi/ohToEW5kBoM/0.jpg)](https://www.youtube.com/watch?v=ohToEW5kBoM)
+
+[**Watch on YouTube** →](https://www.youtube.com/watch?v=ohToEW5kBoM)
+
+---
+
+### AssaShine
+[**View Demo** →](https://drive.google.com/file/d/1JtRQdXbKe1JXdZph2cF10lFCTyegYR70/view)
+
+---
 
 #### Find out more about me 📫 
 
