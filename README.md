@@ -60,6 +60,43 @@
 
 ---
 
+## 🚀 Software Projects
+
+### 📦 ddSideBar - Arc-Style Sidebar for Chrome
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshots
+
+[<img src="https://lh3.googleusercontent.com/tK9GLRJ2dQwB9jiJrs48aJOs-PXDKeJ9q2GHwOrwd0KdjLYrSoxjQ2BfQG3yxIwRenRND8hqrL4v0GfUviW-tbwYtg=s1600-w1600-h1000" />](https://chromewebstore.google.com/detail/echdjophnbkljbokigbpknajhbjngeic)
+
+</td>
+<td width="50%" valign="top">
+
+**Arc-Style Sidebar Extension** - Bring Arc browser's elegant sidebar experience to Chrome!
+
+A Chrome extension that brings Arc browser's innovative tab and space management to Chrome. Organize your browsing with a beautiful, minimalist sidebar that puts your tabs and bookmarks at your fingertips.
+
+**Features:**
+- 🎨 **Arc-Style Sidebar**: Beautiful left sidebar with tabs list and glassmorphism effects
+- 📑 **Tabs Management**: Quick tab switching, closing, and organization
+- 🗂️ **Spaces Organization**: Create multiple spaces with custom names, icons, and colors
+- 🔖 **Bookmarks Integration**: Two-layer system for bookmarks and tabs
+- ⚙️ **Dual Mode Support**: Choose between Iframe injection or Chrome SidePanel
+- 🔒 **Privacy First**: All data stored locally, nothing transmitted to external servers
+
+**Tech Stack:** Chrome Extension Manifest V3 | Vanilla JavaScript | Modern CSS | Chrome APIs
+
+[**📥 Install from Chrome Web Store**](https://chromewebstore.google.com/detail/echdjophnbkljbokigbpknajhbjngeic?utm_source=item-share-cb) | [**📂 View on GitHub**](https://github.com/ddx-510/dd-sidebar)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎮 Game Projects
 
 ### 🐟 Fish Tank
