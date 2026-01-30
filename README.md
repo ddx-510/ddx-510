@@ -95,6 +95,37 @@ A Chrome extension that brings Arc browser's innovative tab and space management
 </tr>
 </table>
 
+### 🐟 Moyu (摸鱼) - Master the Art of Looking Busy
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshots
+
+[<img src="https://ddx-510.github.io/moyu-mac/screenshots/aqua-big.png" />](https://ddx-510.github.io/moyu-mac/)
+
+</td>
+<td width="50%" valign="top">
+
+**The AI-powered productivity shield for remote workers.**
+
+Take guilt-free breaks while your computer does the "work". Moyu (Chinese for "loafing") is a macOS menu bar application designed to help remote workers and developers take breaks while maintaining the appearance of productivity.
+
+**Features:**
+- 🛡️ **Productivity Shield**: Fake Update & Fake Coding screens to deter shoulder surfers
+- 💰 **Value Your Time**: Money Counter & Paid Poop Tracker
+- 🌊 **The Oasis**: Fish Pond gamification & soothing ocean theme
+- 🚨 **Tide Warning**: Notification system for when managers approach
+
+**Tech Stack:** Electron | React | TypeScript | Tailwind CSS
+
+[**📥 Download**](https://ddx-510.github.io/moyu-mac/) | [**📂 View on GitHub**](https://github.com/ddx-510/moyu-mac)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎮 Game Projects
@@ -170,6 +201,92 @@ A relaxing, interactive aquarium game where you can design your own fish, watch 
 **Tech Stack:** Turbo (Rust-based game engine) | Real-time multiplayer
 
 [**🎮 Play on itch.io <password: turbo>**](https://ddx510.itch.io/tok-pocket) 
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools Vibed
+
+### 🔁 D-Decode - Sci-Tech File Converter
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshots
+<img width="1302" height="932" alt="image" src="https://github.com/user-attachments/assets/38d5396b-9bda-45ec-810f-0909402ec234" />
+</td>
+<td width="50%" valign="top">
+
+**Advanced Sci-Tech File Converter**
+
+A versatile online tool for file conversion and data processing.
+
+**Features:**
+- 🔄 **Format Conversion**: Convert between various scientific and technical file formats
+- 🛠️ **Data Processing**: Simple and efficient data manipulation tools
+
+**Tech Stack:** React | Next.js
+
+[**🔗 Visit Website**](https://d-decode.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+### 📝 DD-Markup - Markdown Editor
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshots
+<img width="1902" height="930" alt="image" src="https://github.com/user-attachments/assets/23f9b692-78d0-4577-a3ca-f2fb6a242ed4" />
+</td>
+<td width="50%" valign="top">
+
+**Online Markdown Editor**
+
+A clean and simple markdown editor for quick note-taking and formatting.
+
+**Features:**
+- ✍️ **Live Preview**: See your markdown rendered in real-time
+- 🎨 **Syntax Highlighting**: Clean interface for writing documentation
+
+**Tech Stack:** React | Next.js
+
+[**🔗 Visit Website**](https://dd-markup.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+### 👁️ Bling Eyes - AI & Social News Feed
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshots
+<img width="1885" height="901" alt="image" src="https://github.com/user-attachments/assets/dbb871c9-9ff3-46fc-b966-3eacf1408b60" />
+
+</td>
+<td width="50%" valign="top">
+
+**AI & Social News Universe**
+
+A modern news aggregation platform with a sleek interface.
+
+**Features:**
+- 📰 **News Aggregation**: Curated news from multiple sources
+- 🤖 **AI Integration**: AI-powered summaries and insights (inferred)
+
+**Tech Stack:** React | Next.js | Tailwind CSS
+
+[**🔗 Visit Website**](https://bling-eyes.vercel.app/)
 
 </td>
 </tr>
