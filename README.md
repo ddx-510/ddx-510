@@ -62,6 +62,120 @@
 
 ## 🚀 Software Projects
 
+### 🤖 nanobot-go - Lightweight Concurrent Team Agent
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Architecture
+
+```mermaid
+graph TB
+    subgraph Channels
+        CLI[CLI]
+        Lark[Lark]
+    end
+    subgraph Agent
+        RUN[Router] --> WA[Worker A]
+        RUN --> WB[Worker B]
+    end
+    CLI & Lark --> RUN
+    WA & WB --> LLM[12+ LLM Providers]
+    WA & WB --> TOOLS[10+ Tools + MCP]
+```
+
+</td>
+<td width="50%" valign="top">
+
+**A lightweight, concurrent team agent built in Go.** Inspired by [nanobot](https://github.com/HKUDS/nanobot).
+
+~5,000 lines of Go. Single binary. No runtime dependencies. Built for the [CCMonet](https://ccmonet.dev) team.
+
+**Features:**
+- 🔀 **Concurrent Sessions**: Per-session goroutines with FIFO queuing
+- 🧠 **LLM-Powered Memory**: Auto-consolidation into persistent knowledge base
+- 🔧 **10+ Tools + MCP**: File ops, shell, web, API queries, sub-agents, cron
+- 🔌 **12+ Providers**: Auto-detection from API key (OpenRouter, Gemini, Claude, etc.)
+- 📋 **Markdown Skills**: Add capabilities without code changes
+- 💬 **Multi-Channel**: CLI + Lark (Feishu) with @mention support
+
+**Tech Stack:** Go | Cobra | robfig/cron | MCP Protocol
+
+[**📂 View on GitHub**](https://github.com/PlatoX-Type/monet-bot)
+
+</td>
+</tr>
+</table>
+
+### 🏢 OpenCode Pixel Office - AI Agent Visualizer
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Screenshots
+
+<img src="https://private-user-images.githubusercontent.com/20592322/544933540-e20e2e68-a032-4747-a027-aacca0f274e5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0MjA3NTgsIm5iZiI6MTc3MjQyMDQ1OCwicGF0aCI6Ii8yMDU5MjMyMi81NDQ5MzM1NDAtZTIwZTJlNjgtYTAzMi00NzQ3LWEwMjctYWFjY2EwZjI3NGU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAyVDAzMDA1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5MjliZmJjYWNlNzZjZDFlNDM3ODRhYjhhZjhhNGUwMGZiZTQ5Y2Y2YmQ0NDA5ZjkwNjRkZDY0ZDdhYWEzNDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PNyYoCYuOTunhXEyajouW2Neorjmb7QgOnqCPV7qCt0" alt="Pixel Office" />
+
+</td>
+<td width="50%" valign="top">
+
+**Watch your AI coding agents work in a retro pixel-art office!**
+
+An OpenCode plugin that visualizes AI agent activity through a pixel-art office dashboard. Supports both OpenCode and Claude Code CLI with live WebSocket updates.
+
+**Features:**
+- 🎮 **Pixel Art Visualization**: Retro office showing agents working in real-time
+- 🔀 **Dual CLI Support**: Works with OpenCode and Claude Code
+- 📡 **Live WebSocket Updates**: Real-time agent activity streaming
+- 📱 **Mobile-Responsive**: QR code connectivity for mobile viewing
+- 🗂️ **Multi-Session Tracking**: Monitor agents across repositories
+
+**Tech Stack:** React | PixiJS | Express.js | WebSocket | TypeScript
+
+[**📂 View on GitHub**](https://github.com/ddx-510/opencode-pixel-office)
+
+</td>
+</tr>
+</table>
+
+### 🖼️ React Multi Crop Image
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📸 Demo
+
+<img src="https://github.com/ddx-510/react-multi-crop-image/blob/main/20250115162853_rec_.gif?raw=true" alt="React Multi Crop Image Demo" />
+
+</td>
+<td width="50%" valign="top">
+
+**A React component for drawing multiple crop regions on a single image.**
+
+Originally built for document processing and receipt scanning at [cc:Monet](https://ccmonet.ai). Draw, resize, and export multiple crop areas as base64 — perfect for OCR, document processing, and image annotation workflows.
+
+**Features:**
+- ✂️ **Multi-Crop**: Draw and manage multiple crop regions on one image
+- 📤 **Base64 Export**: Export cropped sections as data URLs
+- 🎨 **Fully Customizable**: Style crop regions, icons, and interactions
+- 📜 **Scroll-Aware**: Handles scrollable containers and hi-res images
+- 🔷 **TypeScript**: Full type support
+
+**Tech Stack:** React | TypeScript | Lodash
+
+```bash
+npm install react-multi-crop-image
+```
+
+[**📂 View on GitHub**](https://github.com/ddx-510/react-multi-crop-image) | [**📦 npm**](https://www.npmjs.com/package/react-multi-crop-image)
+
+</td>
+</tr>
+</table>
+
 ### 📦 ddSideBar - Arc-Style Sidebar for Chrome
 
 <table>
