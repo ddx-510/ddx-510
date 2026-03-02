@@ -134,7 +134,7 @@ An OpenCode plugin that visualizes AI agent activity through a pixel-art office 
 
 **Tech Stack:** React | PixiJS | Express.js | WebSocket | TypeScript
 
-[**📂 View on GitHub**](https://github.com/ddx-510/opencode-pixel-office)
+[**📂 View on GitHub**](https://github.com/ddx-510/opencode-pixel-office) | [**📦 npm**](https://www.npmjs.com/package/opencode-pixel-office)
 
 </td>
 </tr>
