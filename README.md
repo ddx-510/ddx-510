@@ -102,7 +102,7 @@ graph TB
 
 **Tech Stack:** Go | Cobra | robfig/cron | MCP Protocol
 
-[**📂 View on GitHub**](https://github.com/PlatoX-Type/monet-bot)
+[**📂 View on GitHub**](https://github.com/ddx-510/nano-bot-go)
 
 </td>
 </tr>
