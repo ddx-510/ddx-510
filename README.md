@@ -116,7 +116,9 @@ graph TB
 
 #### 📸 Screenshots
 
-<img src="https://private-user-images.githubusercontent.com/20592322/544933540-e20e2e68-a032-4747-a027-aacca0f274e5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0MjA3NTgsIm5iZiI6MTc3MjQyMDQ1OCwicGF0aCI6Ii8yMDU5MjMyMi81NDQ5MzM1NDAtZTIwZTJlNjgtYTAzMi00NzQ3LWEwMjctYWFjY2EwZjI3NGU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAyVDAzMDA1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5MjliZmJjYWNlNzZjZDFlNDM3ODRhYjhhZjhhNGUwMGZiZTQ5Y2Y2YmQ0NDA5ZjkwNjRkZDY0ZDdhYWEzNDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PNyYoCYuOTunhXEyajouW2Neorjmb7QgOnqCPV7qCt0" alt="Pixel Office" />
+<img src="https://github.com/user-attachments/assets/e20e2e68-a032-4747-a027-aacca0f274e5" />
+
+
 
 </td>
 <td width="50%" valign="top">
