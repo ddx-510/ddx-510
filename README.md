@@ -4,7 +4,8 @@
 
 
 - Computer Science graduate from the National University of Singapore (Software development + game development)
-- Fullstack Software Developer at [Platox.AI](https://www.ccmonet.ai/)
+- Software Engineer at Google
+- Ex-Fullstack Software Developer at [Platox.AI](https://www.ccmonet.ai/)
 - Part-time Game Developer with [Turbo](https://turbo.computer/)
 
 **Tech Stack:**
