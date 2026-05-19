@@ -4,7 +4,7 @@
 
 
 - Computer Science graduate from the National University of Singapore (Software development + game development)
-- Software Engineer at Google
+- Software Engineer at [Google](https://about.google/?fg=1&utm_source=google-SG&utm_medium=referral&utm_campaign=hp-header)
 - Ex-Fullstack Software Developer at [Platox.AI](https://www.ccmonet.ai/)
 - Part-time Game Developer with [Turbo](https://turbo.computer/)
 
